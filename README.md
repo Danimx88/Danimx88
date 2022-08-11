@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danimx88&show_icons=true&locale=en" alt="danimx88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danimx88&" alt="danimx88" /></p>
+
 
  
  <div  align="center"> 
