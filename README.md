@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel Romero</h1>
 <h3 align="center">A passionate frontend and Backend developer from Mexico.</h3>
-
+<center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-omar-romero-reyes-36833a96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-omar-romero-reyes-36833a96" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100053612902495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100053612902495" height="30" width="40" /></a>
 </p>
-
+</center>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danimx88&show_icons=true&locale=en&layout=compact" alt="danimx88" /></p>
